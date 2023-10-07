@@ -24,7 +24,3 @@ BHASAVERSE is a pioneering online platform dedicated to the preservation and pro
 
 ### 6. Cultural Exchange Platform
    - **Global Community:** Participate in discussions, share insights, and collaborate on projects, fostering a sense of global community and celebrating the richness of indigenous cultures.
-
-## Getting Started
-
-1. **Clone the Repository:**
